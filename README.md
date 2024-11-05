@@ -16,6 +16,16 @@ Peppol BIS Billing:
 * Target format: HTML
 * Language: English
 * Details: https://docs.peppol.eu/poacc/billing/3.0/files/stylesheet-ubl.xslt
+* Last Update: 2024
+
+Unimaze Peppol Stylesheets
+* Type: XSLT script
+* Source formats: UBL Invoice, UBL Credit Note, UBL Order
+* Target formats: HTML
+* Languages: English, Icelandic, Polish, Swedish
+* Details: https://github.com/unimaze/unimaze-peppol-stylesheets
+* Last Update: 2019
+* License: Apache 2.0
 
 ### Germany / XRechnung
 
