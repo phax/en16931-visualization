@@ -37,7 +37,7 @@ SFTI - Single Face To Industry
 
 ### Germany / XRechnung
 
-KoSIT provides 
+KoSIT: 
 * Type: XSLT Script
 * Source formats: UBL Invoice, UBL Credit Note, Cross Industry Invoice
 * Target formats: HTML, PDF, PDF tabular
