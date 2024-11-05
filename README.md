@@ -5,6 +5,13 @@ Support the visualization of EN16931 invoices in UBL and CII.
 
 *Peppol*
 
-Peppol XSLT script to convert UBL documents to HTML: https://docs.peppol.eu/poacc/billing/3.0/files/stylesheet-ubl.xslt
+Peppol BIS Billing:
+* Type: XSLT script
+* Source formats: UBL Invoice and UBL Credit Note
+* Target format: HTML
+* Language: English
+* Details: https://docs.peppol.eu/poacc/billing/3.0/files/stylesheet-ubl.xslt
 
 *Germany*
+
+https://github.com/itplr-kosit/xrechnung-visualization
