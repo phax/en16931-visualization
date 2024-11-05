@@ -27,6 +27,14 @@ Unimaze Peppol Stylesheets
 * Last Update: 2019
 * License: Apache 2.0
 
+SFTI - Single Face To Industry
+* Type: XSLT script
+* Source formats: UBL Invoice, UBL Credit Note, UBL Order, UBL Order Response, UBL Catalogue
+* Target formats: HTML
+* Languages: English, Polish, Swedish
+* Details: https://github.com/SingleFaceToIndustry/SFTI-repository/tree/master/PEPPOL%20BIS%20Billing%203/Presentation%20Stylesheet
+* Last Update: 2024
+
 ### Germany / XRechnung
 
 KoSIT provides 
@@ -35,3 +43,5 @@ KoSIT provides
 * Target formats: HTML, PDF, PDF tabular
 * Language: German, English
 * Details: https://github.com/itplr-kosit/xrechnung-visualization
+* Last Update: 2024
+* License: Apache 2.0
