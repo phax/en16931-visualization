@@ -35,7 +35,7 @@ SFTI - Single Face To Industry
 * Details: https://github.com/SingleFaceToIndustry/SFTI-repository/tree/master/PEPPOL%20BIS%20Billing%203/Presentation%20Stylesheet
 * Last Update: 2024
 
-### Germany / XRechnung
+### Germany / XRechnung / ZUGFeRD
 
 KoSIT: 
 * Type: XSLT Script
@@ -45,3 +45,12 @@ KoSIT:
 * Details: https://github.com/itplr-kosit/xrechnung-visualization
 * Last Update: 2024
 * License: Apache 2.0
+
+Jochen Stärk:
+* Type: Installable application
+* Source formats: UBL Invoice, UBL Credit Note, Cross Industry Invoice, ZUGFeRD PDF
+* Language: German, English, French
+* Details: https://quba-viewer.org/ und https://github.com/ZUGFeRD/quba-viewer
+* Last Update: 2024
+* License: Apache 2.0
+
