@@ -35,6 +35,15 @@ SFTI - Single Face To Industry
 * Details: https://github.com/SingleFaceToIndustry/SFTI-repository/tree/master/PEPPOL%20BIS%20Billing%203/Presentation%20Stylesheet
 * Last Update: 2024
 
+Byte Brain Technologies
+* Type: Python application
+* Source formats: 
+* Target formats: HTML, PDF, JSON, XML
+* Languages: English, French, Dutch, German
+* Details: https://github.com/bytebraintechnologies/peppol-xml-visualizer
+* Last Update: 2026
+* License: MIT
+
 ### Germany / XRechnung / ZUGFeRD
 
 KoSIT: 
